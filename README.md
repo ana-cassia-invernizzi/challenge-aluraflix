@@ -1,8 +1,21 @@
-# React + Vite
+<h1>Alura Flix</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>Sobre</h2>
+<p>Projeto feito durante o programa ONE da Alura.</p>
+<p>Esse desafio foi feito para praticar o React aprendido durante a formação Front-end.</p>
+<p>O server foi feito em outro repositório: <a href="https://github.com/ana-cassia-invernizzi/aluraflix-api">link</a></p>
 
-Currently, two official plugins are available:
+## Tecnologias
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+<h2>Deploy do projeto</h2>
+<img src="">
+<a href="https://challenge-aluraflix-nu.vercel.app/">Alura Flix</a>
+
