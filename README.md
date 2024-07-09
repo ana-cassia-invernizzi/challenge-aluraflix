@@ -16,6 +16,6 @@
 
 
 <h2>Deploy do projeto</h2>
-<img src="">
+<img src="public/assets/Captura de tela de 2024-07-09 17-03-00.png">
 <a href="https://challenge-aluraflix-nu.vercel.app/">Alura Flix</a>
 
